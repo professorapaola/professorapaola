@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 👩‍🎓🖤
 
-<!--
-**professorapaola/professorapaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Paola Santos
 
-Here are some ideas to get you started:
+- Sou professora da escola E.E. PEI JOÃO CLIMACO DE CAMARGO PIRES
+- Utilizamos como ferramenta nas aulas de robótica os cursos do [Alura](https://wwww.alura.com.br)
+- Estou desenvolvendo linguagem JAVASCRIPT com meus alunos
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo:
+
+📫 paolasantos@prof.educacao.sp.gov.br 
+
+📱 @profpaola_
+
+![](https://media1.tenor.com/m/YVG0xDJg5eQAAAAC/teach-teaching.gif)
